@@ -1,0 +1,38 @@
+[0.699s] Invoking command in '/home/mouha/esp32_led_spacebar/ros2_ws/src/esp32_led_teleop': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/esp32_led_teleop build --build-base /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build install --record /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/install.log --single-version-externally-managed install_data
+[0.898s] running egg_info
+[0.898s] creating ../../build/esp32_led_teleop/esp32_led_teleop.egg-info
+[0.913s] writing ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/PKG-INFO
+[0.913s] writing dependency_links to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/dependency_links.txt
+[0.913s] writing entry points to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/entry_points.txt
+[0.913s] writing requirements to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/requires.txt
+[0.913s] writing top-level names to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/top_level.txt
+[0.913s] writing manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+[0.944s] reading manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+[0.944s] adding license file 'LICENSE'
+[0.944s] writing manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+[0.944s] running build
+[0.944s] running build_py
+[0.945s] creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build
+[0.945s] creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib
+[0.945s] creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+[0.945s] copying esp32_led_teleop/__init__.py -> /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+[0.945s] copying esp32_led_teleop/keyboard_led_publisher.py -> /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+[0.945s] running install
+[0.950s] running install_lib
+[0.966s] creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+[0.966s] copying /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop/__init__.py -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+[0.966s] copying /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop/keyboard_led_publisher.py -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+[0.966s] byte-compiling /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop/__init__.py to __init__.cpython-312.pyc
+[0.966s] byte-compiling /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop/keyboard_led_publisher.py to keyboard_led_publisher.cpython-312.pyc
+[0.967s] running install_data
+[0.967s] creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index
+[0.967s] creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index
+[0.967s] creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index/packages
+[0.967s] copying resource/esp32_led_teleop -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index/packages
+[0.967s] copying package.xml -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/esp32_led_teleop
+[0.968s] running install_egg_info
+[0.984s] Copying ../../build/esp32_led_teleop/esp32_led_teleop.egg-info to /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop-0.0.0-py3.12.egg-info
+[0.984s] running install_scripts
+[1.084s] Installing keyboard_led_publisher script to /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/esp32_led_teleop
+[1.084s] writing list of installed files to '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/install.log'
+[1.106s] Invoked command in '/home/mouha/esp32_led_spacebar/ros2_ws/src/esp32_led_teleop' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/esp32_led_teleop build --build-base /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build install --record /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/install.log --single-version-externally-managed install_data

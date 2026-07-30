@@ -1,0 +1,4 @@
+source;share/esp32_led_status/local_setup.bash
+source;share/esp32_led_status/local_setup.dsv
+source;share/esp32_led_status/local_setup.sh
+source;share/esp32_led_status/local_setup.zsh

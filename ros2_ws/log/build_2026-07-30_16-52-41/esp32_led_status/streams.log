@@ -1,0 +1,22 @@
+[0.012s] Invoking command in '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status -- -j12 -l12
+[0.166s] [100%] Built target led_status_listener
+[0.168s] Invoked command in '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status -- -j12 -l12
+[0.174s] Invoking command in '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status
+[0.180s] -- Install configuration: ""
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/lib/esp32_led_status/led_status_listener
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/ament_index/resource_index/package_run_dependencies/esp32_led_status
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/ament_index/resource_index/parent_prefix_path/esp32_led_status
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/environment/ament_prefix_path.sh
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/environment/ament_prefix_path.dsv
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/environment/path.sh
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/environment/path.dsv
+[0.180s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/local_setup.bash
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/local_setup.sh
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/local_setup.zsh
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/local_setup.dsv
+[0.181s] -- Installing: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/package.dsv
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/ament_index/resource_index/packages/esp32_led_status
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/cmake/esp32_led_statusConfig.cmake
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/cmake/esp32_led_statusConfig-version.cmake
+[0.181s] -- Up-to-date: /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_status/share/esp32_led_status/package.xml
+[0.181s] Invoked command in '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_status

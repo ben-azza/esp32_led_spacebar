@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/esp32_led_teleop/esp32_led_teleop.egg-info
+writing ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/PKG-INFO
+writing dependency_links to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/dependency_links.txt
+writing entry points to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/entry_points.txt
+writing requirements to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/requires.txt
+writing top-level names to ../../build/esp32_led_teleop/esp32_led_teleop.egg-info/top_level.txt
+writing manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+reading manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/esp32_led_teleop/esp32_led_teleop.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build
+creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib
+creating /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+copying esp32_led_teleop/__init__.py -> /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+copying esp32_led_teleop/keyboard_led_publisher.py -> /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop
+running install
+running install_lib
+creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+copying /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop/__init__.py -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+copying /home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/build/lib/esp32_led_teleop/keyboard_led_publisher.py -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop
+byte-compiling /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop/keyboard_led_publisher.py to keyboard_led_publisher.cpython-312.pyc
+running install_data
+creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index
+creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index
+creating /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index/packages
+copying resource/esp32_led_teleop -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/ament_index/resource_index/packages
+copying package.xml -> /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/share/esp32_led_teleop
+running install_egg_info
+Copying ../../build/esp32_led_teleop/esp32_led_teleop.egg-info to /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/python3.12/site-packages/esp32_led_teleop-0.0.0-py3.12.egg-info
+running install_scripts
+Installing keyboard_led_publisher script to /home/mouha/esp32_led_spacebar/ros2_ws/install/esp32_led_teleop/lib/esp32_led_teleop
+writing list of installed files to '/home/mouha/esp32_led_spacebar/ros2_ws/build/esp32_led_teleop/install.log'

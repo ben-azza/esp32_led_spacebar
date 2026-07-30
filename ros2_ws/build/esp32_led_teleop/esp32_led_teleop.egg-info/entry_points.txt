@@ -1,0 +1,2 @@
+[console_scripts]
+keyboard_led_publisher = esp32_led_teleop.keyboard_led_publisher:main
